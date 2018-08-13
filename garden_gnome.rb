@@ -12,5 +12,7 @@ class GardenGnome
     name = "GNARLY!!!"
     return name 
   end 
+  def introduce_self 
+    test_gnome1.name 
 end 
     
