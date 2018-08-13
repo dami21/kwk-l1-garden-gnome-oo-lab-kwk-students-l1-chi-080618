@@ -14,6 +14,6 @@ class GardenGnome
   end 
   def introduce_self 
     test_gnome1.name = "Carl the Crappy"
-    return 
+    return test_gnome1.name
 end 
     
