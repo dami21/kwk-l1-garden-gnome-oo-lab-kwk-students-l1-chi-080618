@@ -21,4 +21,5 @@ class GardenGnome
     # test_gnome1.name = "Carl the Crappy"
     # return test_gnome1.name
 end 
+carl the crappy 
     
