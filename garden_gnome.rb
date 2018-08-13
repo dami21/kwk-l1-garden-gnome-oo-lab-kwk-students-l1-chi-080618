@@ -13,7 +13,7 @@ class GardenGnome
     return name 
   end 
   def introduce_self 
-    @name 
+    @name = name 
     # test_gnome1.name = "Carl the Crappy"
     # return test_gnome1.name
   end 
