@@ -18,9 +18,7 @@ class GardenGnome
   def name 
     @name 
   end 
-  
     # test_gnome1.name = "Carl the Crappy"
     # return test_gnome1.name
-  end 
 end 
     
