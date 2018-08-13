@@ -9,7 +9,7 @@ class GardenGnome
     puts "Gnawing on a tree!!!"
   end 
   def shout 
-    name 
+    name = "GNARLY!!!"
     return 
 end 
     
